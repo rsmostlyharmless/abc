@@ -131,6 +131,16 @@ button {
   }
 
   .XxXxX {
-      margin-top: 1em;
-      margin-bottom: 2em;
+    font-family: 'Tapestry', cursive;
+    margin-top: 1em;
+    margin-bottom: 2em;
+  }
+
+  footer {
+    font-family: 'Tapestry', cursive;
+    font-size: 20px;
+    color: #04756a;
+    text-align: center;
+    padding: 1em;
+    margin: 1em;
   }
