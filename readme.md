@@ -1,8 +1,10 @@
 Birthay Card for my girlfriend, Amy Lightowlers.
 
-This is just is just a bit of fun to make a birthday card for my girlfriend. She always love creativwe gifts so this year I thought I would use my new skill and make her a birthday page/card.
+This is just is just a bit of fun to make a birthday card for my girlfriend. She always loves creative gifts so this year I thought I would use the new skills I'm learning and make her a birthday page/card.
 
 This will mainly use html and css but I will input some js also as I want to keep practicing this language.
+
+2 of the images used are of Amy that I took while we were on holiday. I've turned them into a small slide show wrapped in a sun style fade. Just click on the sun to switch between them.
 
 More js was used than I thought as I had a random idea to input confetti into the birthday card page. The code I used was actually brought to my attention by Coding Fire on YouTube and came from the GitHub page of CoderZ90.
 
