@@ -1,15 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Tapestry&display=swap');
 
-html, body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    height: 100%;
-    overflow: hidden;
-    background: #111;
-  }
-
-body {
+html {
+    background-image: url(../abc/img/middle-earth.jpeg);
     background-repeat: no-repeat;
     background-size: cover;
     margin: 0;
@@ -28,7 +20,7 @@ h1 {
     animation: glow 0.8s ease-in-out infinite alternate;
 }
 
-@-webkit-keyframes glow {
+@keyframes glow {
     from {
         text-shadow: 0 0 10px #ffffff, 0 0 20px #f3f374, 0 0 30px #e6e600, 0 0 40px #73e600, 0 0 50px #00e64d, 0 0 60px #00e6b4, 0 0 70px #00e6cb;
     }
@@ -77,4 +69,12 @@ button {
   @keyframes fade {
     from {opacity: .4}
     to {opacity: 1}
+  }
+
+  #content {
+    text-align: center;
+  }
+
+  p {
+
   }
