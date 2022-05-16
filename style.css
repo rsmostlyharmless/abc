@@ -5,8 +5,6 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50%;
-    margin-top: -3em;
-    margin-bottom: -3em;
 }
 
 h1 {
@@ -23,10 +21,10 @@ h1 {
 
 @keyframes glow {
     from {
-      text-shadow: 0 0 10px #ffd2d2, 0 0 20px #f9f953, 0 0 30px #c7c702, 0 0 40px #64c800, 0 0 50px #01bc3f, 0 0 60px #01b991, 0 0 70px #01b49f;
+      text-shadow: 0 0 10px #ffd2d2, 0 0 20px #f9f953, 0 0 30px #c7c702, 0 0 40px #64c800, 0 0 50px #01bc3f, 0 0 60px #01b991, 0 0 70px #01b49f, 0 0 80px;
     }
     to {
-      text-shadow: 0 0 20px #ffdede, 0 0 30px #fefb3b, 0 0 40px #b3fe39, 0 0 50px #85fb37, 0 0 60px #3bfe72, 0 0 70px #33fdc0, 0 0 80px #3ce5f8;
+      text-shadow: 0 0 20px #ffdede, 0 0 30px #fefb3b, 0 0 40px #b3fe39, 0 0 50px #85fb37, 0 0 60px #3bfe72, 0 0 70px #33fdc0, 0 0 80px #3ce5f8, 0 0 90px;
     }
   }
 
@@ -81,8 +79,8 @@ button {
   h2 {
     font-family: 'Tapestry', cursive;
     font-size: 4em;
-    color: #04756a;
-    text-decoration: underline wavy #04756a 5px;
+    color: #3ce5f8;
+    text-decoration: underline wavy #01b49f 5px;
   }
 
   .message {
@@ -140,7 +138,7 @@ button {
   footer {
     font-family: 'Tapestry', cursive;
     font-size: 2em;
-    color: #04756a;
+    color: #3ce5f8;
     text-align: center;
     padding: 1em;
     margin: 1em;
